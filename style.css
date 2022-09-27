@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+.project{
+    display: flex;
+}
+.ul{
+    display: none;
+}
